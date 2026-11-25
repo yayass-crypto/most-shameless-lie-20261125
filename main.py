@@ -11,7 +11,7 @@ success.
 import os
 import sys
 
-LINE = "I texted your ex. Twice."
+LINE = "I texted your ex. Twice."  # 5 words, 24 chars, 24 bytes, no newline
 FILE = "entry.txt"
 
 
